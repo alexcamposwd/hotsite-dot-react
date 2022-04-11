@@ -1,0 +1,26 @@
+export default {
+  title: "variables",
+
+  colors: {
+    primary1: "#063251",
+    primary2: "#104e7a",
+    primary3: "#1a6aa2",
+    primary4: "#2d87c8",
+    primary5: "#49a6e9",
+    grey1: "#bebebe",
+    grey2: "#6f6f6f",
+    grey3: "#454545",
+    grey4: "#343434",
+    grey5: "#333333",
+    white: "#ffffff",
+    black: "#333",
+    graphite: "#343434",
+    gold: "#c59d5f",
+    reddark: "#bb2525",
+    redmd: "#FF5555",
+    redlight: "#e66b6b",
+    greendark: "#2d3b09",
+    green: "#546130",
+    greenSuccess: "#198754",
+  },
+};
