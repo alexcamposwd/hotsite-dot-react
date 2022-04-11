@@ -115,13 +115,13 @@ export const AccordionContent = styled.div`
 export const AccordionImage = styled.div`
   display: flex;
   max-width: 350px;
-  min-width: 100%;
   padding: 20px;
   justify-content: center;
   align-items: center;
 
   img {
     width: 300px;
+    min-width: 100%;
     height: 200px;
     border: 10px solid gray;
   }
