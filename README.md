@@ -3,7 +3,7 @@
 
 ### Desafio / Teste.
 
-Projeto para desafio / teste para vaga de emprego utilizando React.
+Projeto para desafio utilizando React.
 
 ### Características:
 
