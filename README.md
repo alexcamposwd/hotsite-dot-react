@@ -24,7 +24,9 @@ Projeto para desafio utilizando React.
 - Deploy Netlify.
 - O projeto foi editado no Visual Studio Code.
 
-##[Demo](https://hotsite-react.netlify.app/)
+![Mockup_Hotsite_v2-1](https://user-images.githubusercontent.com/81717487/177430455-a179eaf3-5616-497e-8f8f-8c51213f282b.jpg)
+
+## [Demo](https://hotsite-react.netlify.app/)
 
 ### License/Licença do Projeto
 [MIT License](./LICENSE) © ![alexcamposwd](https://img.shields.io/badge/-alexcamposwd-blue?&style=flat)
